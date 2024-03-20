@@ -5,11 +5,14 @@ Repository corresponding to the paper "Exact and Heuristic Computation of the Sc
 
 Citation of the paper (and the repository) in bibtex format:
 
-@misc{holtgrefe2024exact, 
-title={Exact and Heuristic Computation of the Scanwidth of Directed Acyclic Graphs}, author={Holtgrefe, Niels and van Iersel, Leo and Jones, Mark}, year={2024}, month={3}, eprint={2403.12734},
-      archivePrefix={arXiv}
+@misc{holtgrefe2024exact,
+    title={Exact and Heuristic Computation of the Scanwidth of Directed Acyclic Graphs},
+    author={Holtgrefe, Niels and van Iersel, Leo and Jones, Mark},
+    year={2024},
+    month={3},
+    eprint={2403.12734},
+    archivePrefix={arXiv}
 }
-
 
 
 ## Repository structure
