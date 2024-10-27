@@ -1,7 +1,7 @@
 
 # Exact and Heuristic Computation of the Scanwidth of DAGs
 
-Repository corresponding to the paper "Exact and Heuristic Computation of the Scanwidth of Directed Acyclic Graphs" by Niels Holtgrefe, Leo van Iersel and Mark Jones, available at [URL](https://arxiv.org/abs/2403.12734).
+Repository corresponding to the paper "[Exact and Heuristic Computation of the Scanwidth of Directed Acyclic Graphs](https://arxiv.org/abs/2403.12734)" by Niels Holtgrefe, Leo van Iersel and Mark Jones.
 
 Citation of the paper (and the repository) in `bibtex` format:
 
