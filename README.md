@@ -3,8 +3,9 @@
 
 Repository corresponding to the paper "Exact and Heuristic Computation of the Scanwidth of Directed Acyclic Graphs" by Niels Holtgrefe, Leo van Iersel and Mark Jones, available at [URL](https://arxiv.org/abs/2403.12734).
 
-Citation of the paper (and the repository) in bibtex format:
+Citation of the paper (and the repository) in `bibtex` format:
 
+```
 @misc{holtgrefe2024exact,
     title={Exact and Heuristic Computation of the Scanwidth of Directed Acyclic Graphs},
     author={Holtgrefe, Niels and van Iersel, Leo and Jones, Mark},
@@ -13,6 +14,7 @@ Citation of the paper (and the repository) in bibtex format:
     eprint={2403.12734},
     archivePrefix={arXiv}
 }
+```
 
 
 ## Repository structure
